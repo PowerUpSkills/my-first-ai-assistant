@@ -7,7 +7,7 @@ This script showcases all major features in one comprehensive demo
 import time
 import json
 from pathlib import Path
-from smart_writer_improved import ImprovedWritingAssistant
+from smart_writer import ImprovedWritingAssistant
 
 class CompleteDemonstration:
     
